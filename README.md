@@ -5,6 +5,7 @@ The prime objective of this project is to create a CI/CD pipeline. You will asso
 
 The subsequent pages of this lesson will guide you to create an and EKS cluster using a single command, AWS CodeBuild and CodePipeline programmatically using a CloudFormation template available to you.
 
+## Introduction
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
