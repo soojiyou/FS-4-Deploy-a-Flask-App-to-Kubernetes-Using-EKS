@@ -1,4 +1,4 @@
-# Deploying a Flask API
+# Full Stack Project 4 - Deploying a Flask API
 
 ## Project Overview
 The prime objective of this project is to create a CI/CD pipeline. You will associate the pipeline's one end to your Github repository, and connect the other end to the EKS cluster. You will create this CI/CD pipeline programmatically using the code (Cloudformation template file) that we will provide to you.
